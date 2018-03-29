@@ -1,0 +1,9 @@
+C:\Users\CodeConcept01\source\repos\DataTable-to-DataGrid\AsciiImport\bin\Debug\AsciiImport.dll
+C:\Users\CodeConcept01\source\repos\DataTable-to-DataGrid\AsciiImport\bin\Debug\AsciiImport.pdb
+C:\Users\CodeConcept01\source\repos\DataTable-to-DataGrid\AsciiImport\bin\Debug\Interfaces.dll
+C:\Users\CodeConcept01\source\repos\DataTable-to-DataGrid\AsciiImport\bin\Debug\Interfaces.pdb
+C:\Users\CodeConcept01\source\repos\DataTable-to-DataGrid\AsciiImport\obj\Debug\AsciiImport.csprojResolveAssemblyReference.cache
+C:\Users\CodeConcept01\source\repos\DataTable-to-DataGrid\AsciiImport\obj\Debug\AsciiImport.csproj.CoreCompileInputs.cache
+C:\Users\CodeConcept01\source\repos\DataTable-to-DataGrid\AsciiImport\obj\Debug\AsciiImport.csproj.CopyComplete
+C:\Users\CodeConcept01\source\repos\DataTable-to-DataGrid\AsciiImport\obj\Debug\AsciiImport.dll
+C:\Users\CodeConcept01\source\repos\DataTable-to-DataGrid\AsciiImport\obj\Debug\AsciiImport.pdb
