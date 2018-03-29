@@ -20,3 +20,4 @@ C:\Users\CodeConcept01\source\repos\DataTable-to-DataGrid\DataTable-to-DataGrid\
 C:\Users\CodeConcept01\source\repos\DataTable-to-DataGrid\DataTable-to-DataGrid\bin\Debug\Interfaces.dll
 C:\Users\CodeConcept01\source\repos\DataTable-to-DataGrid\DataTable-to-DataGrid\bin\Debug\AsciiImport.pdb
 C:\Users\CodeConcept01\source\repos\DataTable-to-DataGrid\DataTable-to-DataGrid\bin\Debug\Interfaces.pdb
+C:\Users\CodeConcept01\source\repos\DataTable-to-DataGrid\DataTable-to-DataGrid\bin\Debug\shortValidSamples.csv
